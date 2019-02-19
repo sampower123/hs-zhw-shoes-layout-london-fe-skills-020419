@@ -31,11 +31,11 @@
 
 .small {
   width:100%;
-  overflow:auto;
 }
 
 .medium {
   width:200%;
+  overflow:auto;
 }
 
 .row {
